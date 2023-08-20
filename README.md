@@ -13,4 +13,4 @@ Regal admin template has beautiful typography, crisp design, and neatly designed
 
 - [Template by BootstrapDash.](https://www.bootstrapdash.com/product/regal).
 
-![Alt text]('public/ss')
+![Alt text](https://github.com/OscarMyoMin/LaravelAdminPanel-Regal/blob/main/public/ss.png)
