@@ -532,3 +532,9 @@
     </div>
 
 @endsection
+
+@push('scripts')
+    <script src="{{ asset('backend/js/dashboard.js') }}"></script>
+    <script src="{{ asset('backend/vendors/chart.js/Chart.min.js') }}"></script>
+    <script src="{{ asset('backend/vendors/jquery-bar-rating/jquery.barrating.min.js') }}"></script>
+@endpush
